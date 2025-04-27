@@ -1,0 +1,40 @@
+body {
+    background-color: navy;
+}
+
+body {
+    color: white;
+}
+
+input {
+    background-color: #5b67a0;
+}
+
+input {
+    color: white;
+    font-weight: bold;
+}
+
+input {
+    width: 200px;
+    height: 21px;
+}
+
+select {
+    background-color: #5b67a0;
+    color: white;
+}
+
+select {
+    font-weight: bold;
+
+}
+
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 19px;
+}
+
+boxs{
+    background-color: azure;
+}
