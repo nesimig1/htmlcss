@@ -34,6 +34,7 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 19px;
     font-weight: bold;
+
 }
 
 
@@ -42,4 +43,10 @@ body {
 #titull{
     text-align: center;
 
+}
+#submitbtn{
+    background-color: wheat;
+    width: 140px;
+    height: 65;
+    
 }
