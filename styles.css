@@ -33,8 +33,13 @@ select {
 body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 19px;
+    font-weight: bold;
 }
 
-boxs{
-    background-color: azure;
+
+
+
+#titull{
+    text-align: center;
+
 }
